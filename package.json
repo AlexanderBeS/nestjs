@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Training NestJs Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderBeS/nestjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderBeS/nestjs/issues"
+  },
+  "homepage": "https://github.com/AlexanderBeS/nestjs#readme",
+  "dependencies": {
+    "@nestjs/common": "^8.1.1",
+    "@nestjs/core": "^8.1.1",
+    "@nestjs/platform-express": "^8.1.1",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^4.4.4"
+  }
+}
